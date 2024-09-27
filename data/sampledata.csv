@@ -1,0 +1,11 @@
+Customer_ID,Contract_Type,Monthly_Charges,Tenure,Churn_Flag
+customer_84,One-Year,114.1,10,1
+customer_54,Two-Year,51.02,32,0
+customer_71,Month-to-Month,43.04,60,0
+customer_46,Month-to-Month,85.04,30,0
+customer_45,Two-Year,60.18,47,0
+customer_40,One-Year,93.38,59,0
+customer_23,Month-to-Month,26.76,55,0
+customer_81,Two-Year,66.95,32,0
+customer_11,Month-to-Month,71.74,31,0
+customer_1,One-Year,58.54,2,0
